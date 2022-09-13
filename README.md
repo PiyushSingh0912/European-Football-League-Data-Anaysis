@@ -10,4 +10,6 @@
 * Detailed match events (goal types, possession, corner, cross, fouls, cards etc…) for +10,000 matches
 
 
+ 
+ 
  <img src="https://www.independent.com.mt/file.aspx?f=167366&width=630&height=340">
